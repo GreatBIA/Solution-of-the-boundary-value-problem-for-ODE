@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Solution-of-the-boundary-value-problem-for-ODE\Solution-of-the-boundary-value-problem-for-ODE\bin\Debug\Solution-of-the-boundary-value-problem-for-ODE.exe.config
+C:\Users\Admin\source\repos\Solution-of-the-boundary-value-problem-for-ODE\Solution-of-the-boundary-value-problem-for-ODE\bin\Debug\Solution-of-the-boundary-value-problem-for-ODE.exe
+C:\Users\Admin\source\repos\Solution-of-the-boundary-value-problem-for-ODE\Solution-of-the-boundary-value-problem-for-ODE\bin\Debug\Solution-of-the-boundary-value-problem-for-ODE.pdb
+C:\Users\Admin\source\repos\Solution-of-the-boundary-value-problem-for-ODE\Solution-of-the-boundary-value-problem-for-ODE\obj\Debug\Solution-of-the-boundary-value-problem-for-ODE.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Solution-of-the-boundary-value-problem-for-ODE\Solution-of-the-boundary-value-problem-for-ODE\obj\Debug\Solution-of-the-boundary-value-problem-for-ODE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution-of-the-boundary-value-problem-for-ODE\Solution-of-the-boundary-value-problem-for-ODE\obj\Debug\Solution-of-the-boundary-value-problem-for-ODE.exe
+C:\Users\Admin\source\repos\Solution-of-the-boundary-value-problem-for-ODE\Solution-of-the-boundary-value-problem-for-ODE\obj\Debug\Solution-of-the-boundary-value-problem-for-ODE.pdb
